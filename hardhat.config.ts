@@ -40,7 +40,7 @@ const config: HardhatUserConfig = {
     apiKey: process.env.ETHERSCAN_API_KEY,
   },
   // abiExporter: {
-  //   path: './api-cli/contract-api-go/data/abi',
+  //   path: './contract-cli/mycoin-cli-geth/data/abi',
   //   clear: true,
   //   flat: true,
   //   // only: ['MyCoin$'],
@@ -49,7 +49,7 @@ const config: HardhatUserConfig = {
   // },
 
   // abiExporter: {
-  //   path: './api-cli/contract-api-ethersjs/src/data/abi',
+  //   path: './contract-cli/mycoin-cli-ethers/src/data/abi',
   //   clear: true,
   //   flat: true,
   //   // only: ['MyCoin$'],
@@ -58,7 +58,7 @@ const config: HardhatUserConfig = {
   // },
 
   // abiExporter: {
-  //   path: './api-cli/contract-api-web3/src/data/abi',
+  //   path: './contract-cli/mycoin-cli-web3/src/data/abi',
   //   clear: true,
   //   flat: true,
   //   // only: ['MyCoin$'],
