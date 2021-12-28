@@ -1,3 +1,6 @@
 [submodule "contract-cli/mycoin-cli-geth"]
 	path = contract-cli/mycoin-cli-geth
 	url = https://github.com/daiwanwei/mycoin-cli-geth.git
+[submodule "contract-cli/mycoin-cli-ethers"]
+	path = contract-cli/mycoin-cli-ethers
+	url = https://github.com/daiwanwei/mycoin-cli-ethers.git
