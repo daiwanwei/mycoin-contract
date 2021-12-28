@@ -22,7 +22,7 @@ npx hardhat test
 ### Deploy Smart Contract(local)
 ```shell
 npx hardhat node //啟動本地測試鏈
-npx hardhat run scripts/mycoin.deploy.ts --network localhost 
+npx hardhat run scripts/myCoin.deploy.ts --network localhost 
 ```
 
 ### Other
